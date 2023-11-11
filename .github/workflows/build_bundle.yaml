@@ -10,6 +10,10 @@ jobs:
     container: debian:latest
     if: contains(github.event.head_commit.message, '#buildme') || github.event_name == 'workflow_dispatch'
     steps:
+      - name: Setup Build Dependency inside container
+        run: |
+          sudo apt update && sudo apt upgrade -y
+          sudo apt install -y flatpak flatpak-builder git
       - name: Checkout
         uses: actions/checkout@v3
         with:
@@ -23,8 +27,6 @@ jobs:
         env:
           FREEDESKTOP_RUNTIME_VERSION: ${{steps.determine_freedesktop_version.outputs.runtime_version}}
         run: |
-          sudo apt update && sudo apt upgrade -y
-          sudo apt install -y flatpak flatpak-builder
           flatpak remote-add --if-not-exists --user flathub https://flathub.org/repo/flathub.flatpakrepo
           flatpak install -y --user org.freedesktop.Sdk/x86_64/$FREEDESKTOP_RUNTIME_VERSION
           flatpak install -y --user org.freedesktop.Platform/x86_64/$FREEDESKTOP_RUNTIME_VERSION
