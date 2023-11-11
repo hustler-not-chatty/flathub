@@ -22,6 +22,7 @@ jobs:
         env:
           FREEDESKTOP_RUNTIME_VERSION: ${{steps.determine_freedesktop_version.outputs.runtime_version}}
         run: |
+          sudo apt remove firefox
           sudo apt update && sudo apt upgrade -y
           sudo apt install -y flatpak flatpak-builder
           flatpak remote-add --if-not-exists --user flathub https://flathub.org/repo/flathub.flatpakrepo
