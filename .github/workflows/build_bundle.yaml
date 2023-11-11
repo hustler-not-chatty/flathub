@@ -16,7 +16,7 @@ jobs:
       - name: Setup Build Dependency inside container
         run: |
           apt update && apt upgrade -y
-          apt install -y flatpak flatpak-builder git
+          apt install -y flatpak flatpak-builder git jq
       - name: Checkout
         uses: actions/checkout@v3
         with:
