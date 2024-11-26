@@ -80,8 +80,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/en-US/firefox-128.4.0esr.tar.bz2",
-                    "sha256": "d84cdd480de7f6f4bffb4342f974581b9e5c0e24f1179038b8119d9b3d1b1e4f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/en-US/firefox-128.5.0esr.tar.bz2",
+                    "sha256": "54e1b6143c5fcf5e29903cdaa596639bd15a6215ad120cdefc89b7a3bc9bd567",
                     "only-arches": [
                         "x86_64"
                     ],
@@ -90,8 +90,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ach.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ach.xpi",
-                    "sha256": "5b2701edd0f8424dacdc9ee048033a6e956fbd796862a0be1215b4d3e8e952a9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ach.xpi",
+                    "sha256": "a21d05eb9ca221d59ca76a6da59a8fb33bea7bc722e6746a2acfc7353ca59e76",
                     "dest": "langpacks/",
                     "dest-filename": "ach.xpi",
                     "only-arches": [
@@ -101,8 +101,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/af.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/af.xpi",
-                    "sha256": "01f266df047a672b43590ec5acc7bf48cee076e806db3e88ae2cd64ea9f78805",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/af.xpi",
+                    "sha256": "95b12156a0265d7e8e7427681d7eaa1d506e2838d84a74571df929561e3ee7a8",
                     "dest": "langpacks/",
                     "dest-filename": "af.xpi",
                     "only-arches": [
@@ -112,8 +112,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/an.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/an.xpi",
-                    "sha256": "1d094b7c1fa88be92494cf2563ff6c7241c0d16d59b28c2dbaee7ac920568c34",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/an.xpi",
+                    "sha256": "84f5ae5c93751b7449acc97fd118a9ed61b90fd23d4a3ea63c284302b05381f2",
                     "dest": "langpacks/",
                     "dest-filename": "an.xpi",
                     "only-arches": [
@@ -123,8 +123,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ar.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ar.xpi",
-                    "sha256": "e86a419818ddc0be6088726d78ca0d32054cbfcac864964e49b8234236f6a3b4",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ar.xpi",
+                    "sha256": "896bf178cafed86ce266a018cc7486ca73c09b535dcf74c39e0d2d5d683f748a",
                     "dest": "langpacks/",
                     "dest-filename": "ar.xpi",
                     "only-arches": [
@@ -134,8 +134,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ast.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ast.xpi",
-                    "sha256": "5ecf27cfc3a5dbe74cc01619dff86f82d0cc73a7e85f68f90d54df4cad923abe",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ast.xpi",
+                    "sha256": "c8c37cbef9cd12814865f588d423956d079b35b852600f0d78b23ea589fea295",
                     "dest": "langpacks/",
                     "dest-filename": "ast.xpi",
                     "only-arches": [
@@ -145,8 +145,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/az.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/az.xpi",
-                    "sha256": "b6c0350515018e4c4f28195ca34642bb98c6d2287c4283f02d325e8541a304bc",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/az.xpi",
+                    "sha256": "47c1ce9f00317824c8501aa3a690f4a19da7ba6f19657248a465924b39a6d2f3",
                     "dest": "langpacks/",
                     "dest-filename": "az.xpi",
                     "only-arches": [
@@ -156,8 +156,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/be.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/be.xpi",
-                    "sha256": "ecd35b9281942d6753ebadd4238617d2397b71bca0ac0b5f2e6e399e68fa7694",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/be.xpi",
+                    "sha256": "0a1e6f9f58587070a8d2ca795e1d011d82175e83e6c543686821be8668e39241",
                     "dest": "langpacks/",
                     "dest-filename": "be.xpi",
                     "only-arches": [
@@ -167,8 +167,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/bg.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/bg.xpi",
-                    "sha256": "10193a68521724b3374314287d53442063708d594b3dd27c378fae986a235c9b",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/bg.xpi",
+                    "sha256": "113fb3675231e6824ff9c07be5fb7257326f75c7cbc2debc6d3d81794b00ac94",
                     "dest": "langpacks/",
                     "dest-filename": "bg.xpi",
                     "only-arches": [
@@ -178,8 +178,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/bn.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/bn.xpi",
-                    "sha256": "4f5d5e5d7f2f5ec06fa32c2249232ed3e90bd5a960d1855f47f3db9b8f3dff9e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/bn.xpi",
+                    "sha256": "a763ae4b422ac932510a205fef7550cf79c90c0b6bcbf842187bdc37e95693ef",
                     "dest": "langpacks/",
                     "dest-filename": "bn.xpi",
                     "only-arches": [
@@ -189,8 +189,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/br.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/br.xpi",
-                    "sha256": "56241717e9754d1b3ad50d12cbe5c79fda85b0a6d77c1adc4fc55c791498f76c",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/br.xpi",
+                    "sha256": "6043d8e1621981d7726425cbdf1be6da75657d75ec254243884dedc9120ccc56",
                     "dest": "langpacks/",
                     "dest-filename": "br.xpi",
                     "only-arches": [
@@ -200,8 +200,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/bs.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/bs.xpi",
-                    "sha256": "a957a68f621a9d1f4ce71986383b70afafcb1a3135db629935a8ac28957054b5",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/bs.xpi",
+                    "sha256": "08513b2b808b41ef046eade4a3c701011f0473190d7b91e802c751f8c888704f",
                     "dest": "langpacks/",
                     "dest-filename": "bs.xpi",
                     "only-arches": [
@@ -211,8 +211,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ca.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ca.xpi",
-                    "sha256": "e601fac5e97286c38f9956079b7fd346e3ce3710647046ef9f0ce4969abd8021",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ca.xpi",
+                    "sha256": "c4f774dc526491404bc81618f9580e8fb6844bc703cd3e79fe84da60eae52904",
                     "dest": "langpacks/",
                     "dest-filename": "ca.xpi",
                     "only-arches": [
@@ -222,8 +222,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ca-valencia.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ca-valencia.xpi",
-                    "sha256": "224e67320ad3c7d7a21111f096bb5e96aef62496657d9eceb1fac183480c594d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ca-valencia.xpi",
+                    "sha256": "824363c01753c0564066d0b1a61ce2598c350941d4e42b43380cedb60713b061",
                     "dest": "langpacks/",
                     "dest-filename": "ca-valencia.xpi",
                     "only-arches": [
@@ -233,8 +233,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/cak.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/cak.xpi",
-                    "sha256": "ed96dabcb8c1bac603a1c13eeae87c8e8ebabb99c447f629b36499eca9268d48",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/cak.xpi",
+                    "sha256": "66829972eb53755f11ff4610c4722228b61bc2c1c78cc4fd23f2cf798decd2d3",
                     "dest": "langpacks/",
                     "dest-filename": "cak.xpi",
                     "only-arches": [
@@ -244,8 +244,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/cs.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/cs.xpi",
-                    "sha256": "72453a590846850cabaa65b4ee3a6bfa56b5fc63dfd0f2eb3f294a929be58e5d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/cs.xpi",
+                    "sha256": "d712e90877ace019242b36266cb2920100b13c2841ee3eb5c4a8f2432f0a0024",
                     "dest": "langpacks/",
                     "dest-filename": "cs.xpi",
                     "only-arches": [
@@ -255,8 +255,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/cy.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/cy.xpi",
-                    "sha256": "297adfb532fdddf47a647e8d0b13d957d1d25a81a7fe1511629e8289175ef751",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/cy.xpi",
+                    "sha256": "4f77af95e53082871bf766dba5a2f453b861e2987a3b49a0c4b485cfbd7e1167",
                     "dest": "langpacks/",
                     "dest-filename": "cy.xpi",
                     "only-arches": [
@@ -266,8 +266,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/da.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/da.xpi",
-                    "sha256": "c092af717b8283a818c3b2787fde2e271c70778e4e3c2cfe6f3c4ba98a901473",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/da.xpi",
+                    "sha256": "357fb2a592223356635b07bd24917aa5bd82504afe6b2c61e270ec947b518952",
                     "dest": "langpacks/",
                     "dest-filename": "da.xpi",
                     "only-arches": [
@@ -277,8 +277,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/de.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/de.xpi",
-                    "sha256": "c20f0eaea7108e9a8e1ab89da1dff72a8ace9ba9c185d7868822c618a52964b3",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/de.xpi",
+                    "sha256": "9fdbc3330661561de730968a68745d4be5c77d6df33b8e0ce6998969e334ca61",
                     "dest": "langpacks/",
                     "dest-filename": "de.xpi",
                     "only-arches": [
@@ -288,8 +288,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/dsb.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/dsb.xpi",
-                    "sha256": "03881ddbb9a2f5d3c0d01062ce85df6ecf4fea502e5666c9ab32891510f0572d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/dsb.xpi",
+                    "sha256": "3d81ca00c462e2405e552f32f9e26eb3960f62170342fe7b7e463edd21120279",
                     "dest": "langpacks/",
                     "dest-filename": "dsb.xpi",
                     "only-arches": [
@@ -299,8 +299,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/el.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/el.xpi",
-                    "sha256": "e31bd90fa8db3df5dbcde6887e15957b159883dfa3ae0b408532e7ddec69b058",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/el.xpi",
+                    "sha256": "b71182ea71cc36eb1a4099b81b75c643eac15a5062787ce2771607600864068e",
                     "dest": "langpacks/",
                     "dest-filename": "el.xpi",
                     "only-arches": [
@@ -310,8 +310,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/en-CA.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/en-CA.xpi",
-                    "sha256": "70d43bf892db47bb5f8a0eeaafeffa5c433c1789087289769f343c5e51cad00e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/en-CA.xpi",
+                    "sha256": "485ec040718617a0c9e8939598f57d4482c431a5e428f2df616d5755e902ac61",
                     "dest": "langpacks/",
                     "dest-filename": "en-CA.xpi",
                     "only-arches": [
@@ -321,8 +321,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/en-GB.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/en-GB.xpi",
-                    "sha256": "51e48d63c253336688f8b38dd8988d7701781546751f7ed5830985ec0f7fb5c9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/en-GB.xpi",
+                    "sha256": "990329e001f33677ab5efac583df29e1ddd5741eb80be9a5df2913f704f93f7f",
                     "dest": "langpacks/",
                     "dest-filename": "en-GB.xpi",
                     "only-arches": [
@@ -332,8 +332,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/eo.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/eo.xpi",
-                    "sha256": "e1d11bf5e9c7df5a5a98735e00006f2766b561768217da4175e880a1c83ff276",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/eo.xpi",
+                    "sha256": "1135537bdd96277a01c995dd7136081ca4b83d3e9567f1677f6f037f5939abed",
                     "dest": "langpacks/",
                     "dest-filename": "eo.xpi",
                     "only-arches": [
@@ -343,8 +343,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/es-AR.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/es-AR.xpi",
-                    "sha256": "cb74aea39174be846a51349e5a6049dfac7f560f7c3c7c82e22de73a29fdb0c9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/es-AR.xpi",
+                    "sha256": "32767fa56b2ce514a2f09f7f25b769571fd63a2572dd0997f015723be2290f53",
                     "dest": "langpacks/",
                     "dest-filename": "es-AR.xpi",
                     "only-arches": [
@@ -354,8 +354,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/es-CL.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/es-CL.xpi",
-                    "sha256": "1c65f77b1f2044f30cf31adec859593066247e3cfd6f22a0b4ce7e59f0a52d90",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/es-CL.xpi",
+                    "sha256": "6c896f207d561a4a5cae37dfb41474ff8e20d850391cab49ff109f3eb82fb89a",
                     "dest": "langpacks/",
                     "dest-filename": "es-CL.xpi",
                     "only-arches": [
@@ -365,8 +365,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/es-ES.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/es-ES.xpi",
-                    "sha256": "518e6171d51f3977851d6e0a12dfd2cf829d207876890ef0e47d92f547e82863",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/es-ES.xpi",
+                    "sha256": "6378eb4bf7af44f78dbc587520e08901f63afa940a14d9e4c4c6a21dd0bcba80",
                     "dest": "langpacks/",
                     "dest-filename": "es-ES.xpi",
                     "only-arches": [
@@ -376,8 +376,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/es-MX.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/es-MX.xpi",
-                    "sha256": "ce7fcf1923c79d572ff5f2ee53f228630a96ebe7b346315c0267a9a87f87e578",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/es-MX.xpi",
+                    "sha256": "8b2a87716ecaf7ec6c1c1d8be44cafc005cd21f3a6c166d2ee13f7efad4c83be",
                     "dest": "langpacks/",
                     "dest-filename": "es-MX.xpi",
                     "only-arches": [
@@ -387,8 +387,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/et.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/et.xpi",
-                    "sha256": "90dc721b127bc08d8d344dab228a150775529c9f2c78c0f49fb82fdc4043e50a",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/et.xpi",
+                    "sha256": "4c8e7417476441a231c11601f022c1444dfc5af7c3c8492d3fcb89e667d23b02",
                     "dest": "langpacks/",
                     "dest-filename": "et.xpi",
                     "only-arches": [
@@ -398,8 +398,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/eu.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/eu.xpi",
-                    "sha256": "409f51d73c197bf79549bd7850194a3ecb0d37a77cfee3deb9203081901ef35d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/eu.xpi",
+                    "sha256": "55c4ab582ac31ab9d3af34c5c21671fb39de2f4fe904a2ea88ce9c638f94c636",
                     "dest": "langpacks/",
                     "dest-filename": "eu.xpi",
                     "only-arches": [
@@ -409,8 +409,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/fa.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/fa.xpi",
-                    "sha256": "1aba1ab2a3edf436081fed8a90cb6812a52cb3e680ccc117a5001792949183cd",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/fa.xpi",
+                    "sha256": "4467615fefa293deddf04ed3984d7f85fa085bf5a61da85b7eb42f5ab701c19b",
                     "dest": "langpacks/",
                     "dest-filename": "fa.xpi",
                     "only-arches": [
@@ -420,8 +420,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ff.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ff.xpi",
-                    "sha256": "6a791c36c429a60d782aafb6d604e605e4154b644b205a5fb7a3d91dfde98da1",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ff.xpi",
+                    "sha256": "c47980fa24b5a0f3218bc2b301ac7e31bee0b2dabcb5f0276ba293cdb6cd964a",
                     "dest": "langpacks/",
                     "dest-filename": "ff.xpi",
                     "only-arches": [
@@ -431,8 +431,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/fi.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/fi.xpi",
-                    "sha256": "f9fe78d0f689a071d95414b412bd9b216cce1e4dc2a972dc29126d2f11a75c03",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/fi.xpi",
+                    "sha256": "a0a68de358a4c3c991fdaa542eca8e7f759950080d8e4337c95f99d9e7792aad",
                     "dest": "langpacks/",
                     "dest-filename": "fi.xpi",
                     "only-arches": [
@@ -442,8 +442,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/fr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/fr.xpi",
-                    "sha256": "b766206ff6adc4935a30d4b26175acfd06dcdcb6ac02554048ca949b3f2301c3",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/fr.xpi",
+                    "sha256": "5f34fac8e8f6c2b0bc3d4c6d36245ad622b88fc559452bd9af8e3fadf89904b4",
                     "dest": "langpacks/",
                     "dest-filename": "fr.xpi",
                     "only-arches": [
@@ -453,8 +453,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/fur.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/fur.xpi",
-                    "sha256": "6420bfe020d7a0b97dc781672a9d9f0add1c5904843d8ffe8669d20857e1e778",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/fur.xpi",
+                    "sha256": "dbeefd94328f46007fcc268bfded318d345260022bd8c6fcf65bbac7958e6b7f",
                     "dest": "langpacks/",
                     "dest-filename": "fur.xpi",
                     "only-arches": [
@@ -464,8 +464,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/fy-NL.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/fy-NL.xpi",
-                    "sha256": "79b7e0c83e2a4b5d5bd3b0e5225f176b4077ea9f4a598628684af8b07be2ca5a",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/fy-NL.xpi",
+                    "sha256": "f5ec0c25d189d885af66617e65abd06425c6e253f9035996aa604daf745d8f48",
                     "dest": "langpacks/",
                     "dest-filename": "fy-NL.xpi",
                     "only-arches": [
@@ -475,8 +475,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ga-IE.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ga-IE.xpi",
-                    "sha256": "c15bf4add412fe2651a0ed8a02b11bfb82c387169c1f92218069ad872cc3e118",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ga-IE.xpi",
+                    "sha256": "cf8c84d2e774fb18c7bff419efa132d81bf5b499dc8a2caf40746b4425f23aba",
                     "dest": "langpacks/",
                     "dest-filename": "ga-IE.xpi",
                     "only-arches": [
@@ -486,8 +486,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/gd.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/gd.xpi",
-                    "sha256": "205b6334e396b7cd9c60cf0f1e8c062b12f637eebf99d4d88fceb67e5985fe1f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/gd.xpi",
+                    "sha256": "82ebb3f0a8f2554aecf3a7d0d7f8c309acd7056bf6e968ef948c30ebfd1d7c3c",
                     "dest": "langpacks/",
                     "dest-filename": "gd.xpi",
                     "only-arches": [
@@ -497,8 +497,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/gl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/gl.xpi",
-                    "sha256": "c460f1f077b478bfea8a57c59abbc47cc219fd5f260b3eed91e1abf1f3321467",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/gl.xpi",
+                    "sha256": "110f4abf62370f577bd3443104f27cfc03edcf40f344643a3e1c0baadc517833",
                     "dest": "langpacks/",
                     "dest-filename": "gl.xpi",
                     "only-arches": [
@@ -508,8 +508,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/gn.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/gn.xpi",
-                    "sha256": "c83b492eaeefd8799f8d937273161e970f6a5943cbe25263d6f5001780eb48b9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/gn.xpi",
+                    "sha256": "10a17e4ff3fee2f281f6d606db0a886e8ed46c06e5f33ed8a97e72a949283a40",
                     "dest": "langpacks/",
                     "dest-filename": "gn.xpi",
                     "only-arches": [
@@ -519,8 +519,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/gu-IN.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/gu-IN.xpi",
-                    "sha256": "7b608585910334d29d875e98498484e8d58df78da9e4b9cdc11ff9751052044c",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/gu-IN.xpi",
+                    "sha256": "8ba964944cea532ab6912096dead1b958390f078c664cb20a88d71d8f06ceccf",
                     "dest": "langpacks/",
                     "dest-filename": "gu-IN.xpi",
                     "only-arches": [
@@ -530,8 +530,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/he.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/he.xpi",
-                    "sha256": "788e9aa57de603937432aefc8c183b40bc2e1e2e38bfe5a4c9578a6fa58fe6aa",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/he.xpi",
+                    "sha256": "1f891d3cd5a9a3dc34f501eb3d95c6ec268c828a00ecd53f4715fa124f6ae896",
                     "dest": "langpacks/",
                     "dest-filename": "he.xpi",
                     "only-arches": [
@@ -541,8 +541,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/hi-IN.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/hi-IN.xpi",
-                    "sha256": "97b74bb136bc59dbca6a10c59f7565c1069266a77812bcb50a67d578b92c41d0",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/hi-IN.xpi",
+                    "sha256": "0becdf9014bde5e6d7aae8165f3a0702e589c9a6854325c1c9558abe12bc8304",
                     "dest": "langpacks/",
                     "dest-filename": "hi-IN.xpi",
                     "only-arches": [
@@ -552,8 +552,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/hr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/hr.xpi",
-                    "sha256": "d991c20823f40ff1a70b36be897d40dc5fb7b827efc618b23971aec06465328b",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/hr.xpi",
+                    "sha256": "bfb6e5ac46e33b798bdf4c84973c9bee22131830c48f48784d688a4cf376aadb",
                     "dest": "langpacks/",
                     "dest-filename": "hr.xpi",
                     "only-arches": [
@@ -563,8 +563,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/hsb.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/hsb.xpi",
-                    "sha256": "67a983611d5c746e5ec778531fa665be17b146f75223a9401c84a8d95796b0d7",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/hsb.xpi",
+                    "sha256": "9b8f8a6609bd968de4c2a0f3e5fe0f7c80d0099b2f6cdaf5e0f6d8a014b15f59",
                     "dest": "langpacks/",
                     "dest-filename": "hsb.xpi",
                     "only-arches": [
@@ -574,8 +574,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/hu.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/hu.xpi",
-                    "sha256": "e59529d2f87e446127e04e69e723cce157217970d86a8c8c6a20c7ab8631f4fd",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/hu.xpi",
+                    "sha256": "aeafcfc410a3bc1cf1abbf0ce2a14523d8160810453747c3f0334d710802e2e6",
                     "dest": "langpacks/",
                     "dest-filename": "hu.xpi",
                     "only-arches": [
@@ -585,8 +585,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/hy-AM.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/hy-AM.xpi",
-                    "sha256": "0329779758cff26ed3f88acd8a49a50cdb54c872414b43c079fbe1373188ceac",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/hy-AM.xpi",
+                    "sha256": "0bd46c9ffe1dc54851eb4d7b02789697f1b8415507e0fcfade2ba24a741c9547",
                     "dest": "langpacks/",
                     "dest-filename": "hy-AM.xpi",
                     "only-arches": [
@@ -596,8 +596,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ia.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ia.xpi",
-                    "sha256": "fab43b7655c87bb9a582095f71c2c72a9f55e161d7d50ea71cb9504fb5819e1f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ia.xpi",
+                    "sha256": "b4c68ce1bc84e4b875e2b0204321e98e2a24718bd343da0419f6ef78919df20b",
                     "dest": "langpacks/",
                     "dest-filename": "ia.xpi",
                     "only-arches": [
@@ -607,8 +607,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/id.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/id.xpi",
-                    "sha256": "36e649f3df6815d6adfa69d343df2b210780e95dddaa5186b3e61cdc5524ecf7",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/id.xpi",
+                    "sha256": "37d1e5a5c765001d9c93a196046371173bca91087f157cd2e927527b6679f50a",
                     "dest": "langpacks/",
                     "dest-filename": "id.xpi",
                     "only-arches": [
@@ -618,8 +618,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/is.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/is.xpi",
-                    "sha256": "3185e708bf9e89e6eae59d3fc50031d60205817f9fa9b8b2fe8f6409250ed7cd",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/is.xpi",
+                    "sha256": "86790b6d14c1e7a6013020c4d2d73d0805aaaebe6f6fb40d6c665f044270256f",
                     "dest": "langpacks/",
                     "dest-filename": "is.xpi",
                     "only-arches": [
@@ -629,8 +629,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/it.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/it.xpi",
-                    "sha256": "42c9be7dd2dcf8c95b3e738e9e6ce54691f80d45a3feedf6b9a4818ed343f60e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/it.xpi",
+                    "sha256": "45ba80f9fac66402664933d76fd2212cb44551918cd1a2308e141fd429f4bc4c",
                     "dest": "langpacks/",
                     "dest-filename": "it.xpi",
                     "only-arches": [
@@ -640,8 +640,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ja.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ja.xpi",
-                    "sha256": "cd755e22b187c382a0615239fccdbeaa0cfafd77b266f3fd103c3849728c2841",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ja.xpi",
+                    "sha256": "7d1a9a54c685b4d2355b2443e41e792f30a2da487f68f97b2582fa79ca5d0078",
                     "dest": "langpacks/",
                     "dest-filename": "ja.xpi",
                     "only-arches": [
@@ -651,8 +651,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ka.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ka.xpi",
-                    "sha256": "c0bdb22e0cc873edf06da3ed184ead73e04b858d54b28c6df0c78dab5e1c97da",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ka.xpi",
+                    "sha256": "2282885df2e93ebe92d5d19daa96b911332645531c5b333a92f8b91fb17d1d00",
                     "dest": "langpacks/",
                     "dest-filename": "ka.xpi",
                     "only-arches": [
@@ -662,8 +662,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/kab.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/kab.xpi",
-                    "sha256": "d16b939e20a03d8a92e3b014561d5b501385b06e17f337ae4cc3f38198931094",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/kab.xpi",
+                    "sha256": "2808b7241779fb5cb846df3658108ed23151052a92550be9ff893c53de87a156",
                     "dest": "langpacks/",
                     "dest-filename": "kab.xpi",
                     "only-arches": [
@@ -673,8 +673,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/kk.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/kk.xpi",
-                    "sha256": "8902bc7653e618b30f35a6ffea8741a4bf6ad85d6785251bf75c2ba99f1d793c",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/kk.xpi",
+                    "sha256": "02e61eaa35298db2bd713baa89a4f20cca6d248ecd0f06c5a0b434b16af51a5c",
                     "dest": "langpacks/",
                     "dest-filename": "kk.xpi",
                     "only-arches": [
@@ -684,8 +684,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/km.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/km.xpi",
-                    "sha256": "89f455c74c834599a8749ba1b376c361148c8902b2163e75426d63aafaec8d9d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/km.xpi",
+                    "sha256": "285ae4e01324fb4323417c870e6435d7e5194e1fcd6146b0a59cce9d6c8f9b53",
                     "dest": "langpacks/",
                     "dest-filename": "km.xpi",
                     "only-arches": [
@@ -695,8 +695,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/kn.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/kn.xpi",
-                    "sha256": "8a19df3995dca42b2d679549402d73793ce31dcf2bfe958cc2ee24134d9cdb1d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/kn.xpi",
+                    "sha256": "08e7876c137bf0cd3209885710e83bf623c792b305ac5e2066a7956aedaf0948",
                     "dest": "langpacks/",
                     "dest-filename": "kn.xpi",
                     "only-arches": [
@@ -706,8 +706,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ko.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ko.xpi",
-                    "sha256": "a4acfa2d87f884e69df68c925ef5114dcdce2eec1d10f28f97848e0c2bdeee67",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ko.xpi",
+                    "sha256": "ef83e25a1e80d44f8e2dc12966330feb28c65f1e8cd9541254fa04afa3acefe1",
                     "dest": "langpacks/",
                     "dest-filename": "ko.xpi",
                     "only-arches": [
@@ -717,8 +717,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/lij.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/lij.xpi",
-                    "sha256": "312edd256d3215bd7fe59c84b8d7f50da6c72ee8b6de694f671945fd2ed9ca18",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/lij.xpi",
+                    "sha256": "d980d9ff7a63d90259216935f570f0e7f110793abfba96e3e1caa18d54a7e744",
                     "dest": "langpacks/",
                     "dest-filename": "lij.xpi",
                     "only-arches": [
@@ -728,8 +728,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/lt.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/lt.xpi",
-                    "sha256": "cea7772340a33cef7ff8f92b8be4c163f0bbe0bb333544fae4bd0b82e374f4ac",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/lt.xpi",
+                    "sha256": "2404bd0a010c4452cf7e39695464d0c2665b9bd65214f33f7a074b188ffa654f",
                     "dest": "langpacks/",
                     "dest-filename": "lt.xpi",
                     "only-arches": [
@@ -739,8 +739,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/lv.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/lv.xpi",
-                    "sha256": "0ad61cd75466a9de70a01a19e37b9bb1e3257c50b4301a88af9683c3fcf10ed4",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/lv.xpi",
+                    "sha256": "68cb708e0b96ef2aace390dd341fad62fe58a591f681c7c0ad52374a5e542822",
                     "dest": "langpacks/",
                     "dest-filename": "lv.xpi",
                     "only-arches": [
@@ -750,8 +750,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/mk.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/mk.xpi",
-                    "sha256": "2af3fa82b6a4214afdeb9758016a2012da5217457a9a706f47471e2262671b0f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/mk.xpi",
+                    "sha256": "ef210db84f372279c6032dbbbad0de011383cd6ec6f2896c970ed2294f865338",
                     "dest": "langpacks/",
                     "dest-filename": "mk.xpi",
                     "only-arches": [
@@ -761,8 +761,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/mr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/mr.xpi",
-                    "sha256": "bffc42f87a78184fbca2082529794400035214a381a16cb6850020af7631f2e2",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/mr.xpi",
+                    "sha256": "8ee5eafb21cc09950193afd4bbc5f5ce916a9ba5f8aacfae3957a1037c7ced88",
                     "dest": "langpacks/",
                     "dest-filename": "mr.xpi",
                     "only-arches": [
@@ -772,8 +772,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ms.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ms.xpi",
-                    "sha256": "00682c619898777ae86a62e1b08df6a0f50c4c1b8e572490b6606fb666f86830",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ms.xpi",
+                    "sha256": "3bdbc78cfd92e615c4d432c0344794961dbe9f2fd60cd81adeeb37786cd47b5f",
                     "dest": "langpacks/",
                     "dest-filename": "ms.xpi",
                     "only-arches": [
@@ -783,8 +783,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/my.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/my.xpi",
-                    "sha256": "47e3194532a631acb5ac192d5810aa4c0aae2593fff9c374129509448b28db40",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/my.xpi",
+                    "sha256": "3eb340c053eb43275c448fbe7845db0439414e5dab51ad1a08f9b63bdcb81302",
                     "dest": "langpacks/",
                     "dest-filename": "my.xpi",
                     "only-arches": [
@@ -794,8 +794,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/nb-NO.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/nb-NO.xpi",
-                    "sha256": "914082fd9b535d8af95fc78c55f13d21f3dc18ad8203d9c256edfdf7b667304e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/nb-NO.xpi",
+                    "sha256": "4855a3d884aa3af8956416a6649e77cec7d65b220997f297fe13e7c94e5e9611",
                     "dest": "langpacks/",
                     "dest-filename": "nb-NO.xpi",
                     "only-arches": [
@@ -805,8 +805,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ne-NP.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ne-NP.xpi",
-                    "sha256": "5c4e57d59c8b6ade51bfb90b3e1565f0df84ac1316f7d22c5da7bb8dc59f6c09",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ne-NP.xpi",
+                    "sha256": "bdb3bfaa587ff1112c3569d109296f8c85f986adffbc1a845e8f560ea5a65215",
                     "dest": "langpacks/",
                     "dest-filename": "ne-NP.xpi",
                     "only-arches": [
@@ -816,8 +816,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/nl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/nl.xpi",
-                    "sha256": "ad3caea0de7921bfece00272818259eeb2672487fb4f8afd9dbda32b96d5b94e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/nl.xpi",
+                    "sha256": "905e0a1f539b7971fbbb9e68e8cfeb0370aef0f347717a1f473c6dba80582646",
                     "dest": "langpacks/",
                     "dest-filename": "nl.xpi",
                     "only-arches": [
@@ -827,8 +827,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/nn-NO.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/nn-NO.xpi",
-                    "sha256": "b996962a7acf14ebc6284204773a6ba85a7d059c59f0217c3c624daa9ef88ac4",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/nn-NO.xpi",
+                    "sha256": "b8586f9c897d601a5b6251db8e87b7fceed4ef912279a797efd910851c00708c",
                     "dest": "langpacks/",
                     "dest-filename": "nn-NO.xpi",
                     "only-arches": [
@@ -838,8 +838,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/oc.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/oc.xpi",
-                    "sha256": "794fab21bcd1183a090858be5a8e5973ea2aba4a51c595b3335a233f1fd0b746",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/oc.xpi",
+                    "sha256": "f2c5131cd73f7815478c07665b81a96c7902a8a22fc680493195bd0396157592",
                     "dest": "langpacks/",
                     "dest-filename": "oc.xpi",
                     "only-arches": [
@@ -849,8 +849,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/pa-IN.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/pa-IN.xpi",
-                    "sha256": "e3e92e12282b5ac1f3ebbad78e7468676fa8398eeb2bbcf2b506b039a9093438",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/pa-IN.xpi",
+                    "sha256": "e6363aa2bc41c038c71ec3057c490f642ee0141a4461dc77674be5754f36400f",
                     "dest": "langpacks/",
                     "dest-filename": "pa-IN.xpi",
                     "only-arches": [
@@ -860,8 +860,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/pl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/pl.xpi",
-                    "sha256": "9e9bd6e766042a45510ae04a8b3cf69fdfd6111e9acabd915808245c5679ced9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/pl.xpi",
+                    "sha256": "45e4052b0789df71e53ddec4726ed37effc1f6a3dc59519bbf3507fc2ff09626",
                     "dest": "langpacks/",
                     "dest-filename": "pl.xpi",
                     "only-arches": [
@@ -871,8 +871,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/pt-BR.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/pt-BR.xpi",
-                    "sha256": "cd3c519fd72a9893f56083a68df6a249492be66cd740639f9d44a3cf3e9fd21b",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/pt-BR.xpi",
+                    "sha256": "681fa3087c5aa2921d99232d528415cfe5024c1b3c2373cad0e058defbe63b8a",
                     "dest": "langpacks/",
                     "dest-filename": "pt-BR.xpi",
                     "only-arches": [
@@ -882,8 +882,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/pt-PT.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/pt-PT.xpi",
-                    "sha256": "4c3bc27b8b6ae58cd75346560f566dbba3eb1442d226e5e27776a4b04b55c0d9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/pt-PT.xpi",
+                    "sha256": "d7d98e1fb4c680d3aec6f7a3e002ee9c8c5e49c5dc780a2dbe261db33f352893",
                     "dest": "langpacks/",
                     "dest-filename": "pt-PT.xpi",
                     "only-arches": [
@@ -893,8 +893,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/rm.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/rm.xpi",
-                    "sha256": "e5caffc8de7441baf3aeb3062debd363b4942e441cd2327f9a4403d1d27ff8a8",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/rm.xpi",
+                    "sha256": "4ac74577fac11c9c87017b7a21d9b08d28a638e405af376c41753e2e677edc11",
                     "dest": "langpacks/",
                     "dest-filename": "rm.xpi",
                     "only-arches": [
@@ -904,8 +904,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ro.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ro.xpi",
-                    "sha256": "67c3a7ca7534b23162df2ddc0f537150ac860889c0fd67c8f3f86447f1883b45",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ro.xpi",
+                    "sha256": "75076d4c3c8851e81c576a0af9e758a250364eb2a01b868a34ff6d8ee3b12fc2",
                     "dest": "langpacks/",
                     "dest-filename": "ro.xpi",
                     "only-arches": [
@@ -915,8 +915,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ru.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ru.xpi",
-                    "sha256": "373532f1672cd92bf8df68f09f53b0e7de1ea5b28e52da2ae90d921fb02af292",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ru.xpi",
+                    "sha256": "7017ded9a82508bd8688709d3008bbe7b71dcdb6d6270673f02df9f07c79e3b5",
                     "dest": "langpacks/",
                     "dest-filename": "ru.xpi",
                     "only-arches": [
@@ -926,8 +926,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sat.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sat.xpi",
-                    "sha256": "291d269b5f62d1ba26544d2b99cce87d71ae3532c7943665529ddfaf515d2686",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sat.xpi",
+                    "sha256": "7abb596ff390e01ea68d14de5b5640715148b6d92b2d7df7433d1c47ec406885",
                     "dest": "langpacks/",
                     "dest-filename": "sat.xpi",
                     "only-arches": [
@@ -937,8 +937,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sc.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sc.xpi",
-                    "sha256": "9b2f11c05c7dea003643949507e3a87121f2d36f79e34461fe6699e80bd6688b",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sc.xpi",
+                    "sha256": "bd36298957a83eb1f1e3cd4f89dc172629e1a49f20d6a080589a0efba2cf3fa9",
                     "dest": "langpacks/",
                     "dest-filename": "sc.xpi",
                     "only-arches": [
@@ -948,8 +948,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sco.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sco.xpi",
-                    "sha256": "40280f899335d651f0a8801aa3bc0a6acc9997ed33dc4f091be3a4287df84877",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sco.xpi",
+                    "sha256": "7f9da94cb9521c4cc8cf6913e63f9b27df36872caa2515f32c0dd0d746f305e0",
                     "dest": "langpacks/",
                     "dest-filename": "sco.xpi",
                     "only-arches": [
@@ -959,8 +959,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/si.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/si.xpi",
-                    "sha256": "a9dd2ccf635cf6fc3161d3ef83e379cc2d3f9f530656f8b0d9578151e88f71ac",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/si.xpi",
+                    "sha256": "e19ef49a57ea049deb6a66eb51fb5f7472a73545dc5e968477ead8ecd50d08fd",
                     "dest": "langpacks/",
                     "dest-filename": "si.xpi",
                     "only-arches": [
@@ -970,8 +970,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sk.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sk.xpi",
-                    "sha256": "dfb43fc246b5b5199280aa20526b4c2b70c077601d135b3e97e97ff4275a330d",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sk.xpi",
+                    "sha256": "1bd6bd38500a08a83df7ffbc86b205a299e9520f1589608b6033c5c28d009f91",
                     "dest": "langpacks/",
                     "dest-filename": "sk.xpi",
                     "only-arches": [
@@ -981,8 +981,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/skr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/skr.xpi",
-                    "sha256": "bd3fe94f38cf4b954a0b912bee6ceabe76a484dcffd3a7e3aeba15c511aae62b",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/skr.xpi",
+                    "sha256": "fa1a9958e146c5e7acabcb0bfb9ec4efc805b686ab51a804a13fc5966065da29",
                     "dest": "langpacks/",
                     "dest-filename": "skr.xpi",
                     "only-arches": [
@@ -992,8 +992,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sl.xpi",
-                    "sha256": "9703fb03245de4ecc9eb721ca52b4bac882f9d50b7a1f43449be0404f943f467",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sl.xpi",
+                    "sha256": "e2ba8a04d829a8a75c8e6ab4b9abbfa9e99d82dca788bc41e6368142a50d19dd",
                     "dest": "langpacks/",
                     "dest-filename": "sl.xpi",
                     "only-arches": [
@@ -1003,8 +1003,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/son.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/son.xpi",
-                    "sha256": "d020e9f2c34988ded8ec0dad1d2b495dd276122be3272c14526fc1a861bd938e",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/son.xpi",
+                    "sha256": "379b6a0f5166d31d66b19f9fd086d065f79dbb170714d952e6e0a8ee30d81e8c",
                     "dest": "langpacks/",
                     "dest-filename": "son.xpi",
                     "only-arches": [
@@ -1014,8 +1014,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sq.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sq.xpi",
-                    "sha256": "33721ed310a26160943a3b2fbd0192059b52fca94e73225c4177f9d5dd1c9561",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sq.xpi",
+                    "sha256": "a05d477ba80d7cf3e88bc72c012794487beea8af5faed9140b43aca19203e7bc",
                     "dest": "langpacks/",
                     "dest-filename": "sq.xpi",
                     "only-arches": [
@@ -1025,8 +1025,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sr.xpi",
-                    "sha256": "1651c351b5b154653fc4dd6d846dcbccb0979209800278ecee0a59f72e65ac28",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sr.xpi",
+                    "sha256": "abf05f02cadc5bca8906bec21177cfbb05931d66477b4cdf0f67c7e0e9362be7",
                     "dest": "langpacks/",
                     "dest-filename": "sr.xpi",
                     "only-arches": [
@@ -1036,8 +1036,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/sv-SE.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/sv-SE.xpi",
-                    "sha256": "f51feeecf20e7f26ed2227614c50ac6260fde088db91cf0ee58d62cdbf357beb",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/sv-SE.xpi",
+                    "sha256": "13c73a8602e86fcdb6fccf7146ca30dfbf6eff121ddd274202e1fcb9817a22d1",
                     "dest": "langpacks/",
                     "dest-filename": "sv-SE.xpi",
                     "only-arches": [
@@ -1047,8 +1047,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/szl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/szl.xpi",
-                    "sha256": "62536a48c3bdfc7a9818507eb5a5cddca176721cb6778316b78aeb07e08c2fba",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/szl.xpi",
+                    "sha256": "58e7314969a1a75ca61a286d30ad3d2235a271818cec895c3e9878b90c1c4220",
                     "dest": "langpacks/",
                     "dest-filename": "szl.xpi",
                     "only-arches": [
@@ -1058,8 +1058,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ta.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ta.xpi",
-                    "sha256": "e982d1a43d5050e1ec106bc03d3a9a76c8cb62175c16d253a3732889dd41a0c6",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ta.xpi",
+                    "sha256": "3bcc6381fb51eadadcec60dc426fb4aa0f5f127fa7c0b2dd2330fbdb3fcc408d",
                     "dest": "langpacks/",
                     "dest-filename": "ta.xpi",
                     "only-arches": [
@@ -1069,8 +1069,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/te.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/te.xpi",
-                    "sha256": "95fd810ed5e5dd4e75dbb074b4aef631e50b67c52fa7e936319349f5ecec2736",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/te.xpi",
+                    "sha256": "86e1c9097876d0ca1be5bb429448b773c6c8f3237d298741cf03d41c0d9ccbb0",
                     "dest": "langpacks/",
                     "dest-filename": "te.xpi",
                     "only-arches": [
@@ -1080,8 +1080,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/tg.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/tg.xpi",
-                    "sha256": "a5720fe7128b9e7ffa0602c95cc86853f5f1dfaa64b005522414c95f63f23c8f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/tg.xpi",
+                    "sha256": "d5999da7a4d462a087d728d942d4ffcbfbf5243bf5540d1e02b4a1f682fb311d",
                     "dest": "langpacks/",
                     "dest-filename": "tg.xpi",
                     "only-arches": [
@@ -1091,8 +1091,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/th.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/th.xpi",
-                    "sha256": "005b8e65a5c3011769ca60cc2bc70dd9f9eefc2cb48e1a5579b403cdabc5f034",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/th.xpi",
+                    "sha256": "ba68ee86c35a79ada8fc6523054100320fcd7126a8feb645798b50c6a80112a0",
                     "dest": "langpacks/",
                     "dest-filename": "th.xpi",
                     "only-arches": [
@@ -1102,8 +1102,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/tl.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/tl.xpi",
-                    "sha256": "d599c26cad6f76bec5d6ed25a3e957eb60904ed27e19a6349a90c41b1b29578f",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/tl.xpi",
+                    "sha256": "2d16e1d8283aa2305f2cbc07f7933a96f2093e2ac7cb0ed054e69ce1a8826157",
                     "dest": "langpacks/",
                     "dest-filename": "tl.xpi",
                     "only-arches": [
@@ -1113,8 +1113,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/tr.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/tr.xpi",
-                    "sha256": "2c95f2540c03b4359321d288787bde911a33e5c437871bc3f36bddaf40ec4940",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/tr.xpi",
+                    "sha256": "7d94ed08563481dd8e19b32d0b5d93c35c41825eaf78e6ef4d14afeb056c9634",
                     "dest": "langpacks/",
                     "dest-filename": "tr.xpi",
                     "only-arches": [
@@ -1124,8 +1124,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/trs.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/trs.xpi",
-                    "sha256": "be7a0f3267b423ac547153d9255ad39361698c2231a8c2fafbf343e8d728b1b9",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/trs.xpi",
+                    "sha256": "863a8bb72f863e66043db4f184b50759af7d9cd965de87ec9644a85b792093a5",
                     "dest": "langpacks/",
                     "dest-filename": "trs.xpi",
                     "only-arches": [
@@ -1135,8 +1135,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/uk.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/uk.xpi",
-                    "sha256": "8473cdc2eb3d2639166434360a75eea84c552d29a4164c3c68705aac837b4f22",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/uk.xpi",
+                    "sha256": "ab79e8c83ad201720ea98d96e76921cd86b87eb01d9a610e2d0d5af602987a92",
                     "dest": "langpacks/",
                     "dest-filename": "uk.xpi",
                     "only-arches": [
@@ -1146,8 +1146,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/ur.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/ur.xpi",
-                    "sha256": "24eeca7f2d83ec1b05421762bbdf6bb51f9fefa752a7306a49368abdbf0c5d87",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/ur.xpi",
+                    "sha256": "0f1106e351eacf89426813587d43cfa1ba9c609c5d844fe784660ac69c2d01be",
                     "dest": "langpacks/",
                     "dest-filename": "ur.xpi",
                     "only-arches": [
@@ -1157,8 +1157,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/uz.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/uz.xpi",
-                    "sha256": "70ead1adbc37b26b39e8fd73beb306fa15e124dbcd10a56164d57414ca16a580",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/uz.xpi",
+                    "sha256": "a858976e9895a2ef5568e4bd4d2c08193d24ceff1f6aa958c4b4494ecc33a6fb",
                     "dest": "langpacks/",
                     "dest-filename": "uz.xpi",
                     "only-arches": [
@@ -1168,8 +1168,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/vi.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/vi.xpi",
-                    "sha256": "e02661a0d371a12fda46cd2e5619611fda7891f7a496cfef36fce1136ff01268",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/vi.xpi",
+                    "sha256": "f62ec877904fdbc60480ae6a983caec74733a9dea601f95bf50a26bcff7c4240",
                     "dest": "langpacks/",
                     "dest-filename": "vi.xpi",
                     "only-arches": [
@@ -1179,8 +1179,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/xh.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/xh.xpi",
-                    "sha256": "ea26900e8797c4d35aba3633d5300003caf1fe6db5332dc584dbae40326e32e7",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/xh.xpi",
+                    "sha256": "d35a6664f091adbf6de87f6e148df6d3b58ffaf2803c69898fa0c28df1795e5f",
                     "dest": "langpacks/",
                     "dest-filename": "xh.xpi",
                     "only-arches": [
@@ -1190,8 +1190,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/zh-CN.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/zh-CN.xpi",
-                    "sha256": "336047b278e3e2c3ff5c4429a7ce3260c6b98d956f555d8bed20cf2544ff60d6",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/zh-CN.xpi",
+                    "sha256": "6d7dc1a0c10a1dbaedf4a5f30f6670a254573255181bef78838751dcf9be6162",
                     "dest": "langpacks/",
                     "dest-filename": "zh-CN.xpi",
                     "only-arches": [
@@ -1201,8 +1201,8 @@
                 {
                     "type": "file",
                     "path": "langpacks/zh-TW.xpi",
-                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.4.0esr/linux-x86_64/xpi/zh-TW.xpi",
-                    "sha256": "84c41ad8aa9410bb3e5d93b97dab0166935d2d81a8dc85cdc63b8a51c2bbc731",
+                    "url": "https://ftp.mozilla.org/pub/firefox/releases/128.5.0esr/linux-x86_64/xpi/zh-TW.xpi",
+                    "sha256": "7894cf9867d0ffdfc4bab148fa3b91c290c79eafb31de147ed38219fbb519720",
                     "dest": "langpacks/",
                     "dest-filename": "zh-TW.xpi",
                     "only-arches": [
